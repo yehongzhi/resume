@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack-dev-server --mode=development --open",
     "build": "webpack --mode=production",
-	"start": "webpack-dev-server --inline"
+    "start": "webpack-dev-server --inline"
   },
   "repository": {
     "type": "git",
