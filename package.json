@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "1.5.0",
-  "description": "resume.congm.in",
+  "description": "resume.yehongzhi.in",
   "main": "index.html",
   "scripts": {
     "dev": "webpack-dev-server --mode=development --open",
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mcc108/resume.git"
+    "url": "https://github.com/yehongzhi/resume.git"
   },
-  "author": "Cong Min",
+  "author": "Ye hongzhi",
   "license": "cc-by-sa-4.0",
-  "homepage": "http://localhost:8080",
+  "homepage": "http://www.lovebilibili.com:8080",
   "devDependencies": {
     "autoprefixer": "^8.2.0",
     "css-loader": "^0.28.11",
