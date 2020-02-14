@@ -1,7 +1,7 @@
 
 ## 简历
 
-* http://www.lovebilibili.com/resume/index.html
+* https://resume.lovebilibili.com/
 
 ## PDF 版
 [点我查看](./resume.pdf)
